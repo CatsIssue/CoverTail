@@ -1,0 +1,3 @@
+[submodule "CoverTail/vendor/spdlog"]
+	path = CoverTail/vendor/spdlog
+	url = https://github.com/gabime/spdlog
